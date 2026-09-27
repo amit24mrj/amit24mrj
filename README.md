@@ -73,7 +73,7 @@ and experiments on GitHub.
 
 It contains programs and practice code in:
 
-```text
+
 C
 C++
 C#
@@ -83,7 +83,6 @@ Python
 PHP
 HTML
 CSS
-```text
 
 ---
 
