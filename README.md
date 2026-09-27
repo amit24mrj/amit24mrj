@@ -88,10 +88,7 @@ CSS
 
 I will continue adding new programs and projects regularly. 🚀
 
-###📫 Connect With Me
-💻 GitHub: @amit24mrj
-📂 Coding: github.com/amit24mrj/coding
 
 ⭐ Thanks for visiting my profile!
 
-🚀 Keep Learning. Keep Coding. Keep Building.
+# 🚀 Keep Learning. Keep Coding. Keep Building.
