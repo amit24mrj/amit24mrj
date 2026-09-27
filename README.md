@@ -1,16 +1,95 @@
-## Hi there 👋
+# 👋 Hi, I'm Amit Kumar
 
+### 💻 B.Tech CSE Student | Programmer | Web Developer
 
-**amit24mrj/amit24mrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about programming, 
+web development, problem solving, and building real-world projects.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies, practicing coding every day, 
+and turning ideas into useful applications. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🎓 Education
+
+### 🎓 B.Tech – Computer Science & Engineering
+**Rajkiya Engineering College, Mainpuri**  
+*Currently Pursuing*
+
+### 🎓 Diploma – Computer Science & Engineering
+**Government Polytechnic Aadampur, Tarabganj, Gonda**  
+*Completed*
+
+---
+
+## 💻 Programming Languages
+
+- C
+- C++
+- C#
+- Java
+- JavaScript
+- Python
+- PHP
+- HTML
+- CSS
+
+---
+
+## 🚀 Technologies & Skills
+
+- 🌐 HTML, CSS & JavaScript
+- ⚛️ React.js
+- 🟢 Node.js
+- 🍃 MongoDB
+- 🗄️ SQL
+- ☕ Core Java
+- 🐍 Python
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔧 Git & GitHub
+- 📱 Responsive Web Development
+
+---
+
+## 🌱 Currently Learning
+
+- React.js
+- Full-Stack Web Development
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Backend Development
+
+---
+
+## 📂 Coding Practice
+
+I regularly practice programming and maintain my coding programs
+and experiments on GitHub.
+
+### 💻 Coding Repository
+
+👉 [View My Coding Repository](https://github.com/amit24mrj/coding)
+
+It contains programs and practice code in:
+
+```text
+C
+C++
+C#
+Java
+JavaScript
+Python
+PHP
+HTML
+CSS
+
+I will continue adding new programs and projects regularly. 🚀
+
+📫 Connect With Me
+💻 GitHub: @amit24mrj
+📂 Coding: github.com/amit24mrj/coding
+
+⭐ Thanks for visiting my profile!
+
+🚀 Keep Learning. Keep Coding. Keep Building.
