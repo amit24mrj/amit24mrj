@@ -83,10 +83,13 @@ Python
 PHP
 HTML
 CSS
+```text
+
+---
 
 I will continue adding new programs and projects regularly. 🚀
 
-📫 Connect With Me
+###📫 Connect With Me
 💻 GitHub: @amit24mrj
 📂 Coding: github.com/amit24mrj/coding
 
